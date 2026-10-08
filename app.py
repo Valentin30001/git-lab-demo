@@ -1,4 +1,2 @@
-def greet(name):
-   return f"Приветсвую, {name}!"
-if __name__ == "__main__":
-   print(greet("мир"))
+def farewel(name):
+   return f"До свидания, {name}!"
